@@ -1,0 +1,6 @@
+[core]
+    remote = database
+['remote "storage"']
+    url = ../temp
+['remote "database"']
+    url = ../temp
